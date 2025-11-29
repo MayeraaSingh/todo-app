@@ -9,7 +9,7 @@
 - Backend: Firebase (Firestore)
 - Version Control: Git + GitHub
 
-## 🔥 Firebase Setup by Student B
+## Firebase Setup by Student B
 Collection: `tasks`
 Fields:
 - title (string)
